@@ -15,5 +15,8 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func startButtonPressed(_ sender: UIButton) {
+//        performSegue(withIdentifier: "goToTeams", sender: sender)
+    }
 }
 
